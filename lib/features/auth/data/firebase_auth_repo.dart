@@ -5,6 +5,7 @@ class FirebaseAuthRepo implements AuthRepo{
   @override
   Future<AppUser?> loginWithEmailPassword(String email, String password) {
     // TODO: implement loginWithEmailPassword
+    
     throw UnimplementedError();
   }
 
